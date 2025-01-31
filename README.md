@@ -6,13 +6,17 @@ This repository contains a Transformer-based language translation model trained 
 
 # 🚀 Features
 ✅ Transformer Model: Uses an encoder-decoder architecture for translation based on the paper.
+
 ✅ Small Dataset: A minimal dataset is included for demonstration.
+
 ✅ Training Example: The model is trained for 2 epochs in the notebook.
+
 ✅ Preprocessing & Tokenization: Uses TensorFlow Text for text processing.
+
 ✅ Notebook for Experimentation: Easy-to-run Jupyter Notebook for hands-on learning.
 
 # Training the Transformer model
-1. Use notbook[Nootebook]()
+1. Use notbook[Nootebook](https://github.com/KaushiML3/Transformer_Language-translation/blob/main/notebook/transformer-Portuguese_2_English.ipynb)
     1. Run the provided Jupyter Notebook for training.
     2. Since training can be time-consuming, using a GPU is recommended for better performance.
 
